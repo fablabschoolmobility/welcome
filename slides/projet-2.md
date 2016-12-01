@@ -1,2 +1,2 @@
 
-![](../resources/projet.png)
+![](resources/projet.png)
